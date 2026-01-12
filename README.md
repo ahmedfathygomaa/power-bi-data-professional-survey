@@ -10,7 +10,7 @@ Interactive Power BI dashboard analyzing survey data from data professionals wor
 - Excel
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/overview.png)
+![Dashboard Preview](Power%20BI%20Data%20Professional%20Survey/screenshots/overview.png)
 
 ## Key Insights
 - Data Scientists have the highest average salaries
